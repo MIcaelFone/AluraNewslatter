@@ -1,4 +1,3 @@
-# AluraNewslatter
 
 # Alura Newsletter
 
