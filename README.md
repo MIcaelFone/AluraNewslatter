@@ -38,8 +38,8 @@ O projeto contém a seguinte estrutura:
 AluraNewslatter/
 │
 ├── index.html      # Página principal da newsletter
-├── imagem/         # Diretório para imagens utilizadas na newslatter
-└──
+├── image/         # Diretório para imagens utilizadas na newslatter
+
 ```
 
 ## Contribuições
