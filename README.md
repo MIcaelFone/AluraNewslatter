@@ -37,9 +37,8 @@ O projeto contém a seguinte estrutura:
 ```bash
 AluraNewslatter/
 │
-├── index.html      # Página principal da newsletter
 ├── image/         # Diretório para imagens utilizadas na newslatter
-
+├── index.html      # Página principal da newsletter
 ```
 
 ## Contribuições
