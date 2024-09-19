@@ -38,8 +38,8 @@ O projeto contém a seguinte estrutura:
 AluraNewslatter/
 │
 ├── index.html      # Página principal da newsletter
-├── styles/         # Diretório para os arquivos CSS gerados pelo Tailwind
-└── assets/         # Imagens e outros recursos estáticos
+├── imagem/         # Diretório para imagens utilizadas na newslatter
+└──
 ```
 
 ## Contribuições
